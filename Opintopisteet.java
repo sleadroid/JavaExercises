@@ -1,4 +1,4 @@
-package teht‰v‰;
+package teht√§v√§;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
