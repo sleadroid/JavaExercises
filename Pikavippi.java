@@ -1,4 +1,4 @@
-package teht‰v‰;
+package teht√§v√§;
 import java.util.Scanner;
 
 public class Pikavippi {
