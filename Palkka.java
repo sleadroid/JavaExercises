@@ -1,4 +1,4 @@
-package teht�v�;
+package tehtävä;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
@@ -33,7 +33,7 @@ public class Palkka {
 		
 		System.out.println("Bruttopalkka " + (df.format(palkka)));
 		System.out.println("Veron osuus " + String.format("%.2f",veroOsuus));
-		System.out.println("Työeläkevakuutusmaksun osuus " + String.format("%.2f", elakemaksu));
+		System.out.println("Tyäeläkevakuutusmaksun osuus " + String.format("%.2f", elakemaksu));
 		System.out.println("Työttömyysvakuutuksen osuus " + String.format("%.2f", tyottomyys));
 		System.out.println("Käteen jää " + String.format("%.2f", (palkka - veroOsuus - elakemaksu - tyottomyys)));
 		
