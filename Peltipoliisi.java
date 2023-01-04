@@ -1,4 +1,4 @@
-package tehtävä;
+package tehtÃ¤vÃ¤;
 import java.util.Scanner;
 
 public class Peltipoliisi {
